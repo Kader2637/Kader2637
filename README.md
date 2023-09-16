@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://example.com/sampul.png](https://images.app.goo.gl/Kw3bJQ4rxXCHTqxG6)" alt="sampul" width="400" height="200" />
+  <img src="![image](https://github.com/Kader2637/Kader2637/assets/130645424/6b19e9c8-e1c0-47df-ac5e-6d154d7621a1)
+)" alt="sampul" width="400" height="200" />
 </p>
 
 <p align="center">
