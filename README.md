@@ -1,3 +1,24 @@
+<br />
+<p align="center">
+  <a href="https://github.com/your_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Project Name</h3>
+
+  <p align="center">
+    Short project description
+    <br />
+    <a href="https://github.com/your_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/your_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/your_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/your_username/repo_name/issues">Request Feature</a>
+  </p>
+</p>
 <center><img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </center>
 <h1 align="center">Hi 👋, Abdul kader happy</h1>
