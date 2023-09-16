@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://example.com/sampul.png" alt="sampul" width="400" height="200" />
+  <img src="[https://example.com/sampul.png](https://images.app.goo.gl/Kw3bJQ4rxXCHTqxG6)" alt="sampul" width="400" height="200" />
 </p>
 
 <p align="center">
