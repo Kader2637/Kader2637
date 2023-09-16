@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kade code</h1><img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h1 align="center">Hi 👋, I'm Kade code</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kader2637&label=Profile%20views&color=0e75b6&style=flat" alt="kader2637" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kader2637" alt="kader2637" /></a> </p>
 
 - 🔭 I’m currently working on [Pkl.hummatech.com](https://pkl.hummatech.com/login)
 
@@ -19,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kader2637&show_icons=true&locale=en&layout=compact" alt="kader2637" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kader2637&show_icons=true&locale=en" alt="kader2637" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kader2637&" alt="kader2637" /></p>
