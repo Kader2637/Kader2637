@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kader code</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kader2637&label=Profile%20views&color=0e75b6&style=flat" alt="kader2637" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kader2637" alt="kader2637" /></a> </p>
-
 - 🔭 I’m currently working on [Pkl.hummatech.com](https://pkl.hummatech.com/login)
 
 - 🔭 I’m currently working on [school.mischool.online]([https://learning.mischool.online/login](https://school.mischool.online/login))
