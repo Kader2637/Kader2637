@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [school.mischool.id](https://school.mischool.id/login)
 - 🔭 I’m currently working on [teacher.mischool.id](https://teacher.mischool.id/login)
-- 🔭 I’m currently working on [teacher.mischool.id](https://teacher.mischool.id/login)
+- 🔭 I’m currently working on [student.mischool.id](https://student.mischool.id/login)
+- 🔭 I’m currently working on [admin.mischool.id](https://admin.mischool.id/login)
+- 🔭 I’m currently working on [staff.mischool.id](https://staff.mischool.id/login)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
