@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🔭 I’m currently working on [Pkl.hummatech.com](https://pkl.hummatech.com/login)
 
-- 🔭 I’m currently working on [school.mischool.online](https://school.mischool.online/login)
+- 🔭 I’m currently working on [school.mischool.id](https://school.mischool.id/login)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
