@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mischool**
 
-- 🌱 I’m currently learning **Internet Of Think**
+- 🌱 I’m currently learning **Internet Of Think** **artificial intelligence** **Next JS** **React JS** **Angular**
 
 - 📫 How to reach me **abdulkader0126@gmail.com**
 
