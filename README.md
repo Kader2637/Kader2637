@@ -1,11 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Abdul Kader</h1>
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" width="400" align="right"  alt="Coding">
-<h3 align="center">A passionate developer from indonesia</h3>
+
+<h3 align="center">A passionate frontend developer from indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kader2637&label=Profile%20views&color=0e75b6&style=flat" alt="kader2637" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kader2637" alt="kader2637" /></a> </p>
 
 - 🔭 I’m currently working on **Mischool**
 
