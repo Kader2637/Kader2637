@@ -1,7 +1,7 @@
-  <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" class="w-100"  alt="Coding">
 
 <h1 align="center">Hi 👋, I'm Abdul Kader</h1>
-<h3 align="center">A passionate frontend developer from indonesia</h3>
+<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" width="400" align="right"  alt="Coding">
+<h3 align="center">A passionate developer from indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kader2637&label=Profile%20views&color=0e75b6&style=flat" alt="kader2637" /> </p>
 
