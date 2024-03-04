@@ -1,4 +1,4 @@
-  <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"  alt="Coding">
+  <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" class="w-100"  alt="Coding">
 
 <h1 align="center">Hi 👋, I'm Abdul Kader</h1>
 <h3 align="center">A passionate frontend developer from indonesia</h3>
