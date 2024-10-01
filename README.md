@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kader2637&show_icons=true&locale=en" alt="kader2637" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kader2637&" alt="kader2637" /></p>
+<p><img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="kader2637" /></p>
+
