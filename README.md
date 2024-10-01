@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdul Kader</h1>
-<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" width="400" align="right"  alt="Coding">
+<img align="center" src="https://abdkader.vercel.app/banner.gif" alt="kader2637" />
 
-<h3 align="center">I am a programmer from Indonesia</h3>
+
+<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" width="400" align="right"  alt="Coding">
+<h3>I am a programmer from Indonesia</h3>
 
 
 - 📫 How to reach me **abdulkader0126@gmail.com**
