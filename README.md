@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Kader</h1>
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" width="400" align="right"  alt="Coding">
 
-<h3 align="center">A passionate web developer from indonesia</h3>
+<h3 align="center">I am a programmer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kader2637&label=Profile%20views&color=0e75b6&style=flat" alt="kader2637" /> </p>
-
-- 🔭 I’m currently working on **Mischool (Sistem Manajamen Sekolah) And SipJaki (Pasuruan)**
-
-- 🌱 I’m currently learning **Internet Of Think** **artificial intelligence** **Next JS** **React JS** **Angular**
 
 - 📫 How to reach me **abdulkader0126@gmail.com**
 
