@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I am Funny**
 - ⚡ My Website **<a href="https://abdkader.vercel.app" target="_blank">abdkader.vercel.app<a>**
+- ⚡ My Notes Website **<a href="https://catatan-kader.vercel.app/" target="_blank">catatan-kader.vercel.app/<a>**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
