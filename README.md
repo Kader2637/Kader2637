@@ -82,6 +82,4 @@
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kader2637&show_icons=true&locale=en&layout=compact" alt="kader2637" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kader2637&show_icons=true&locale=en" alt="kader2637" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kader2637&" alt="kader2637" />
-  <img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="kader2637" />
 </p>
