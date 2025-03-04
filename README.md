@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/abdul-kader" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-kader-53b22930a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdul Kader" height="30" width="40" />
   </a>
   <a href="https://instagram.com/abdulkader2637" target="_blank">
