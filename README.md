@@ -4,7 +4,7 @@
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" width="400" align="right" alt="Coding">
 <h3>Software Developer | Full-Stack Engineer | Tech Enthusiast</h3>
 
-- 🌍 Based in **Indonesia**
+- 🌍 Based in Malang, Jawa Timur, Indonesia
 - 📫 Reach me at **abdulkader0126@gmail.com**
 - 🔭 I’m currently working as HR and Senior Engineering at [PT Kodingin Digital Nusantara](https://www.kodinus.web.id/)<br>
 - ⚡ Fun fact: **I believe humor is the best debugging tool!**
