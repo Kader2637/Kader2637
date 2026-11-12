@@ -6,7 +6,6 @@
 
 - 🌍 Based in Malang, Jawa Timur, Indonesia
 - 📫 Reach me at **abdulkader0126@gmail.com**
-- 🔭 I’m currently working as **(CTO) Chief Technology Officer** at [PT Kodingin Digital Nusantara](https://www.kodinus.web.id/)<br>
 - ⚡ Fun fact: **I believe humor is the best debugging tool!**
 - 🌐 Personal Website: **[abdkader.vercel.app](https://abdkader.vercel.app)**
 - 📝 Tech Blog: **[catatan-kader.vercel.app](https://catatan-kader.vercel.app/)**
