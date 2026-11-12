@@ -7,7 +7,7 @@
 - 🌍 Based in Malang, Jawa Timur, Indonesia
 - 📫 Reach me at **abdulkader0126@gmail.com**
 - ⚡ Fun fact: **I believe humor is the best debugging tool!**
-- 🌐 Personal Website: **[abdkader.vercel.app](https://abdkader.vercel.app)**
+- 🌐 Personal Website: **[abdkader.my.id](abdkader.my.id)**
 - 📝 Tech Blog: **[catatan-kader.vercel.app](https://catatan-kader.vercel.app/)**
 
 <h3 align="left">Connect with Me:</h3>
